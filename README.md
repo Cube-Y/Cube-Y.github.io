@@ -1,5 +1,4 @@
-# 新しいHomePage
-新しいホームページを作りたいと思います。
-少しずつ作るのでお願いします。
+# New HomePage
 
-多分毎日Commitします。。。
+I want to make a new home page.
+I will make it little by little.
